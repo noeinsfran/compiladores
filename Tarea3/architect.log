@@ -1,0 +1,87 @@
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+2084 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+2236 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+2236 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+2329 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+2811 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.SwingUIProjectLoader  - Error parsing project file's olap schemas!
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 12; Element type "personas" must be followed by either attribute specifications, ">" or "/>".
+	at org.apache.xerces.parsers.AbstractSAXParser.parse(Unknown Source)
+	at ca.sqlpower.architect.olap.MondrianXMLReader.parse(MondrianXMLReader.java:103)
+	at ca.sqlpower.architect.swingui.SwingUIProjectLoader.load(SwingUIProjectLoader.java:212)
+	at ca.sqlpower.architect.swingui.SwingUIProjectLoader.load(SwingUIProjectLoader.java:185)
+	at ca.sqlpower.architect.swingui.ArchitectSwingSessionContextImpl.createSession(ArchitectSwingSessionContextImpl.java:194)
+	at ca.sqlpower.architect.swingui.ArchitectFrame$25.run(ArchitectFrame.java:1401)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+1571 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1717 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+1720 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1814 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+2279 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.SwingUIProjectLoader  - Error parsing project file's olap schemas!
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 12; Element type "personas" must be followed by either attribute specifications, ">" or "/>".
+	at org.apache.xerces.parsers.AbstractSAXParser.parse(Unknown Source)
+	at ca.sqlpower.architect.olap.MondrianXMLReader.parse(MondrianXMLReader.java:103)
+	at ca.sqlpower.architect.swingui.SwingUIProjectLoader.load(SwingUIProjectLoader.java:212)
+	at ca.sqlpower.architect.swingui.SwingUIProjectLoader.load(SwingUIProjectLoader.java:185)
+	at ca.sqlpower.architect.swingui.ArchitectSwingSessionContextImpl.createSession(ArchitectSwingSessionContextImpl.java:194)
+	at ca.sqlpower.architect.swingui.ArchitectFrame$25.run(ArchitectFrame.java:1401)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+1087 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1199 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+1199 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1293 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+1596 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.SwingUIProjectLoader  - Error parsing project file's olap schemas!
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 12; Element type "personas" must be followed by either attribute specifications, ">" or "/>".
+	at org.apache.xerces.parsers.AbstractSAXParser.parse(Unknown Source)
+	at ca.sqlpower.architect.olap.MondrianXMLReader.parse(MondrianXMLReader.java:103)
+	at ca.sqlpower.architect.swingui.SwingUIProjectLoader.load(SwingUIProjectLoader.java:212)
+	at ca.sqlpower.architect.swingui.SwingUIProjectLoader.load(SwingUIProjectLoader.java:185)
+	at ca.sqlpower.architect.swingui.ArchitectSwingSessionContextImpl.createSession(ArchitectSwingSessionContextImpl.java:194)
+	at ca.sqlpower.architect.swingui.ArchitectFrame$25.run(ArchitectFrame.java:1401)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+1511 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1654 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+1656 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1750 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+24071 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
